@@ -1,0 +1,9 @@
+ctransformers==0.2.5    # to load the quantization model
+sentence-transformers==2.2.2   # for embeding
+pinecone-client
+langchain==0.0.255
+flask
+pypdf
+python-dotenv
+
+-e .
