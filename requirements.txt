@@ -6,4 +6,6 @@ flask
 pypdf
 python-dotenv
 
+web: gunicorn app:app
+
 -e .
